@@ -1,0 +1,11 @@
+Fırat Üniversitesi Bilgi  
+ 
+Fırat Üniversitesi 1975 yılında Elazığ'da kurulmuştur. Türkiye'nin saygın devlet üniversitelerinden 
+biridir.  
+ 
+Yazılım Mühendisliği bölümü, Mühendislik Fakültesi bünyesinde eğitim vermektedir. Öğrenciler 
+Python, C++, Veri Tabanı Sistemleri gibi dersler almaktadır.  
+ 
+Üniversite kampüsü şehir merkezine yakındır ve ulaşımı kolaydır.  
+ 
+Öğrenci kulüpleri aktif olarak faal iyet göstermektedir.  
